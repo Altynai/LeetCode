@@ -9,11 +9,17 @@
 [Binary Tree Postorder Traversal](http://oj.leetcode.com/problems/binary-tree-postorder-traversal/)   
 [Binary Tree Perorder Traversal](http://oj.leetcode.com/problems/binary-tree-perorder-traversal/)   
 [Reorder List](http://oj.leetcode.com/problems/reorder-list/)   
-[Linked List Cycle](http://oj.leetcode.com/problems/linked-list-cycle/)   
-[Linked List Cycle II](http://oj.leetcode.com/problems/linked-list-cycle-ii/) 
 
 #中等
 
 在基础之上，较容易用暴力的思想，但本质上可以用一些基础的算法进行后续的优化
 
 [Max Points on a Line](http://oj.leetcode.com/problems/max-points-on-a-line/)   
+
+#技巧
+
+其实就是瞎搞，细想的话，其实能想到一个相对不错的方法
+
+[Linked List Cycle](http://oj.leetcode.com/problems/linked-list-cycle/)   
+[Linked List Cycle II](http://oj.leetcode.com/problems/linked-list-cycle-ii/)   
+[Single Number](http://oj.leetcode.com/problems/single-number/)   
