@@ -5,6 +5,7 @@
 
 [Sort List](http://oj.leetcode.com/problems/sort-list/)   
 [Insertion Sort List ](http://oj.leetcode.com/problems/insertion-sort-list/)   
+[Evaluate Reverse Polish Notation](http://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)   
 
 #中等
 
