@@ -9,6 +9,7 @@
 [Binary Tree Postorder Traversal](http://oj.leetcode.com/problems/binary-tree-postorder-traversal/)   
 [Binary Tree Perorder Traversal](http://oj.leetcode.com/problems/binary-tree-perorder-traversal/)   
 [Reorder List](http://oj.leetcode.com/problems/reorder-list/)   
+[Sqrt(x)](http://oj.leetcode.com/problems/sqrtx/)   
 
 #中等
 
