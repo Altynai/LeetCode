@@ -27,3 +27,4 @@
 [Linked List Cycle II](http://oj.leetcode.com/problems/linked-list-cycle-ii/)   
 [Single Number](http://oj.leetcode.com/problems/single-number/)   
 [Single Number II](http://oj.leetcode.com/problems/single-number-ii/)   
+[Reverse Integer](http://oj.leetcode.com/problems/reverse-integer/)   
