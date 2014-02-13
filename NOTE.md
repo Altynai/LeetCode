@@ -20,6 +20,7 @@
 在基础之上，较容易用暴力的思想，但本质上可以用一些基础的算法进行后续的优化
 
 [Max Points on a Line](http://oj.leetcode.com/problems/max-points-on-a-line/)   
+[Longest Consecutive Sequence](http://oj.leetcode.com/problems/longest-consecutive-sequence/)   
 
 #技巧
 
