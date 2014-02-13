@@ -13,7 +13,8 @@
 [Maximum Depth of Binary Tree](http://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)   
 [Same Tree](http://oj.leetcode.com/problems/same-tree/)   
 [Copy List with Random Pointer](http://oj.leetcode.com/problems/copy-list-with-random-pointer/)   
-[Sum Root to Leaf Numbers](http://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)
+[Sum Root to Leaf Numbers](http://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)   
+[Valid Palindrome](http://oj.leetcode.com/problems/valid-palindrome/)
 
 #中等
 
