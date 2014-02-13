@@ -36,15 +36,6 @@ private:
         return root->left == NULL && root->right == NULL;
     }
 
-    bool hasOnlyOneChild(TreeNode *root) {
-        if (root->left != NULL && root->right == NULL)
-            return true;
-        else if (root->left == NULL && root->right != NULL)
-            return true;
-        else
-            return false;
-    }
-
     int findMaxVal(TreeNode *root) {
         if (isLeaf(root))
             return root->val;
