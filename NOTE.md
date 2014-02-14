@@ -39,3 +39,9 @@
 [Best Time to Buy and Sell Stock](http://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)   
 [Best Time to Buy and Sell Stock II](http://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)   
 [Best Time to Buy and Sell Stock III](http://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+
+#动态规划
+
+基本的状态转移等
+
+[Triangle](http://oj.leetcode.com/problems/triangle/)
