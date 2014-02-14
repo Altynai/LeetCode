@@ -38,7 +38,8 @@
 [Binary Tree Maximum Path Sum](http://oj.leetcode.com/problems/binary-tree-maximum-path-sum/)   
 [Best Time to Buy and Sell Stock](http://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)   
 [Best Time to Buy and Sell Stock II](http://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)   
-[Best Time to Buy and Sell Stock III](http://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+[Best Time to Buy and Sell Stock III](http://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)   
+[Pascal's Triangle](http://oj.leetcode.com/problems/pascals-triangle/)
 
 #动态规划
 
