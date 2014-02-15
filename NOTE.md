@@ -17,6 +17,7 @@
 [Valid Palindrome](http://oj.leetcode.com/problems/valid-palindrome/)   
 [Path Sum](http://oj.leetcode.com/problems/path-sum/)   
 [Path Sum II](http://oj.leetcode.com/problems/path-sum-ii/)   
+[Minimum Depth of Binary Tree](http://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)   
 
 
 #中等
