@@ -15,7 +15,9 @@
 [Copy List with Random Pointer](http://oj.leetcode.com/problems/copy-list-with-random-pointer/)   
 [Sum Root to Leaf Numbers](http://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)   
 [Valid Palindrome](http://oj.leetcode.com/problems/valid-palindrome/)   
-[Path Sum](http://oj.leetcode.com/problems/path-sum/)
+[Path Sum](http://oj.leetcode.com/problems/path-sum/)   
+[Path Sum II](http://oj.leetcode.com/problems/path-sum-ii/)   
+
 
 #中等
 
