@@ -45,7 +45,8 @@
 [Best Time to Buy and Sell Stock II](http://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)   
 [Best Time to Buy and Sell Stock III](http://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)   
 [Pascal's Triangle](http://oj.leetcode.com/problems/pascals-triangle/)   
-[Pascal's Triangle II](http://oj.leetcode.com/problems/pascals-triangle-ii/)
+[Pascal's Triangle II](http://oj.leetcode.com/problems/pascals-triangle-ii/)   
+[Median of Two Sorted Arrays](http://oj.leetcode.com/problems/median-of-two-sorted-arrays/)   
 
 #动态规划
 
