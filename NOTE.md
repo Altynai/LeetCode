@@ -54,4 +54,7 @@
 
 基本的状态转移等
 
-[Triangle](http://oj.leetcode.com/problems/triangle/)
+[Triangle](http://oj.leetcode.com/problems/triangle/)   
+
+#其他算法
+[Longest Palindromic Substring](http://oj.leetcode.com/problems/longest-palindromic-substring/)   
