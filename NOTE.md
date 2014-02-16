@@ -48,6 +48,7 @@
 [Pascal's Triangle II](http://oj.leetcode.com/problems/pascals-triangle-ii/)   
 [Median of Two Sorted Arrays](http://oj.leetcode.com/problems/median-of-two-sorted-arrays/)   
 [Add Two Numbers](http://oj.leetcode.com/problems/add-two-numbers/)   
+[Longest Substring Without Repeating Characters](http://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)   
 
 #动态规划
 
