@@ -63,3 +63,4 @@
 
 #傻逼题
 [String to Integer (atoi)](http://oj.leetcode.com/problems/string-to-integer-atoi/)   
+[Palindrome Number](http://oj.leetcode.com/problems/palindrome-number/)   
