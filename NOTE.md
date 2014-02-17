@@ -60,3 +60,6 @@
 
 #其他算法
 [Longest Palindromic Substring](http://oj.leetcode.com/problems/longest-palindromic-substring/)   
+
+#傻逼题
+[String to Integer (atoi)](http://oj.leetcode.com/problems/string-to-integer-atoi/)   
