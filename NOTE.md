@@ -51,6 +51,7 @@
 [Longest Substring Without Repeating Characters](http://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)   
 [ZigZag Conversion](http://oj.leetcode.com/problems/zigzag-conversion/)   
 [Longest Common Prefix](http://oj.leetcode.com/problems/longest-common-prefix/)   
+[3sum](http://oj.leetcode.com/problems/3sum/)   
 
 
 #动态规划
