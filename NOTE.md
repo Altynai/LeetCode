@@ -59,6 +59,7 @@
 [Valid Parentheses](http://oj.leetcode.com/problems/valid-parentheses/)   
 [Remove Duplicates from Sorted Array](http://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)   
 [Remove Element](http://oj.leetcode.com/problems/remove-element/)   
+[Next Permutation](http://oj.leetcode.com/problems/next-permutation/)   
 
 
 #动态规划
