@@ -54,6 +54,8 @@
 [Longest Common Prefix](http://oj.leetcode.com/problems/longest-common-prefix/)   
 [3sum](http://oj.leetcode.com/problems/3sum/)   
 [Letter Combinations of a Phone Number](http://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)   
+[Valid Parentheses](http://oj.leetcode.com/problems/valid-parentheses/)   
+
 
 
 #动态规划
