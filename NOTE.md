@@ -21,6 +21,8 @@
 [Balanced Binary Tree](http://oj.leetcode.com/problems/balanced-binary-tree/)   
 [Merge k Sorted Lists](http://oj.leetcode.com/problems/merge-k-sorted-lists/)   
 [Remove Nth Node From End of List](http://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)   
+[Swap Nodes in Pairs](http://oj.leetcode.com/problems/swap-nodes-in-pairs/)   
+
 
 #中等
 
