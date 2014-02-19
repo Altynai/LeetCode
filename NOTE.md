@@ -52,6 +52,7 @@
 [ZigZag Conversion](http://oj.leetcode.com/problems/zigzag-conversion/)   
 [Longest Common Prefix](http://oj.leetcode.com/problems/longest-common-prefix/)   
 [3sum](http://oj.leetcode.com/problems/3sum/)   
+[Letter Combinations of a Phone Number](http://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)   
 
 
 #动态规划
