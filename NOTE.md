@@ -20,6 +20,7 @@
 [Minimum Depth of Binary Tree](http://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)   
 [Balanced Binary Tree](http://oj.leetcode.com/problems/balanced-binary-tree/)   
 [Merge k Sorted Lists](http://oj.leetcode.com/problems/merge-k-sorted-lists/)   
+[Remove Nth Node From End of List](http://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)   
 
 #中等
 
