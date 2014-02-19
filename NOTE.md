@@ -57,6 +57,7 @@
 [3sum](http://oj.leetcode.com/problems/3sum/)   
 [Letter Combinations of a Phone Number](http://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)   
 [Valid Parentheses](http://oj.leetcode.com/problems/valid-parentheses/)   
+[Remove Duplicates from Sorted Array](http://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)   
 
 
 
