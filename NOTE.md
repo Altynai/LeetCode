@@ -61,6 +61,7 @@
 [Remove Element](http://oj.leetcode.com/problems/remove-element/)   
 [Next Permutation](http://oj.leetcode.com/problems/next-permutation/)   
 [Longest Valid Parentheses](http://oj.leetcode.com/problems/longest-valid-parentheses/)   
+[Search in Rotated Sorted Array](http://oj.leetcode.com/problems/search-in-rotated-sorted-array/)   
 
 
 #动态规划
