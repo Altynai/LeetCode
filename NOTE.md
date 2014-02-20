@@ -62,6 +62,7 @@
 [Next Permutation](http://oj.leetcode.com/problems/next-permutation/)   
 [Longest Valid Parentheses](http://oj.leetcode.com/problems/longest-valid-parentheses/)   
 [Search in Rotated Sorted Array](http://oj.leetcode.com/problems/search-in-rotated-sorted-array/)   
+[Search for a Range](http://oj.leetcode.com/problems/search-for-a-range/)   
 
 
 #动态规划
