@@ -64,7 +64,8 @@
 [Search in Rotated Sorted Array](http://oj.leetcode.com/problems/search-in-rotated-sorted-array/)   
 [Search for a Range'](http://oj.leetcode.com/problems/search-for-a-range/)   
 [Search Insert Position](http://oj.leetcode.com/problems/search-insert-position/)   
-[Valid Sudoku](http://oj.leetcode.com/problems/valid-sudoku/)   
+[Valid Sudoku](http://oj.leetcode.com/problems/valid-sudoku/)  
+[Jump Game](http://oj.leetcode.com/problems/jump-game/)    
 
 
 #动态规划
