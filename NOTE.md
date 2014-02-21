@@ -67,6 +67,7 @@
 [Valid Sudoku](http://oj.leetcode.com/problems/valid-sudoku/)  
 [Jump Game](http://oj.leetcode.com/problems/jump-game/)    
 [Permutations](http://oj.leetcode.com/problems/permutations/)   
+[Pow(x, n)](http://oj.leetcode.com/problems/powx-n/)   
 
 
 #动态规划
