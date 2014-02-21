@@ -66,6 +66,7 @@
 [Search Insert Position](http://oj.leetcode.com/problems/search-insert-position/)   
 [Valid Sudoku](http://oj.leetcode.com/problems/valid-sudoku/)  
 [Jump Game](http://oj.leetcode.com/problems/jump-game/)    
+[Permutations](http://oj.leetcode.com/problems/permutations/)   
 
 
 #动态规划
