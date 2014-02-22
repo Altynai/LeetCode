@@ -71,6 +71,7 @@
 [Trapping Rain Water](http://oj.leetcode.com/problems/trapping-rain-water/)   
 [Merge Intervals](http://oj.leetcode.com/problems/merge-intervals/)   
 [Insert Interval](http://oj.leetcode.com/problems/insert-interval/)   
+[Length of Last Word](http://oj.leetcode.com/problems/length-of-last-word/)   
 
 
 #动态规划
