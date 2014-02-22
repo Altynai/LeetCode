@@ -74,7 +74,8 @@
 [Merge Intervals](http://oj.leetcode.com/problems/merge-intervals/)   
 [Insert Interval](http://oj.leetcode.com/problems/insert-interval/)   
 [Length of Last Word](http://oj.leetcode.com/problems/length-of-last-word/)   
-[Add Binary](http://oj.leetcode.com/problems/add-binary/)   
+[Add Binary](http://oj.leetcode.com/problems/add-binary/)    
+[Plus One](http://oj.leetcode.com/problems/plus-one/)   
 
 
 #动态规划
