@@ -24,6 +24,7 @@
 [Swap Nodes in Pairs](http://oj.leetcode.com/problems/swap-nodes-in-pairs/)   
 [Rotate List](http://oj.leetcode.com/problems/rotate-list/)   
 [Merge Two Sorted Lists](http://oj.leetcode.com/problems/merge-two-sorted-lists/)   
+[Simplify Path](http://oj.leetcode.com/problems/simplify-path/)   
 
 
 #中等
