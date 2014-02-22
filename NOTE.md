@@ -69,6 +69,7 @@
 [Permutations](http://oj.leetcode.com/problems/permutations/)   
 [Pow(x, n)](http://oj.leetcode.com/problems/powx-n/)   
 [Trapping Rain Water](http://oj.leetcode.com/problems/trapping-rain-water/)   
+[Merge Intervals](http://oj.leetcode.com/problems/merge-intervals/)   
 
 
 #动态规划
