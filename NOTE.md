@@ -80,7 +80,7 @@
 [Plus One](http://oj.leetcode.com/problems/plus-one/)   
 [Sort Colors](http://oj.leetcode.com/problems/sort-colors/)   
 [Combinations](http://oj.leetcode.com/problems/combinations/)   
-
+[Subsets](http://oj.leetcode.com/problems/subsets/)   
 
 #动态规划
 
