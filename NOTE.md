@@ -79,6 +79,7 @@
 [Add Binary](http://oj.leetcode.com/problems/add-binary/)    
 [Plus One](http://oj.leetcode.com/problems/plus-one/)   
 [Sort Colors](http://oj.leetcode.com/problems/sort-colors/)   
+[Combinations](http://oj.leetcode.com/problems/combinations/)   
 
 
 #动态规划
