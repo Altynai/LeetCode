@@ -26,6 +26,7 @@
 [Merge Two Sorted Lists](http://oj.leetcode.com/problems/merge-two-sorted-lists/)   
 [Simplify Path](http://oj.leetcode.com/problems/simplify-path/)   
 [Search a 2D Matrix](http://oj.leetcode.com/problems/search-a-2d-matrix/)   
+[Remove Duplicates from Sorted List](http://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)   
 
 
 #中等
