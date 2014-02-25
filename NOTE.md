@@ -87,6 +87,7 @@
 [Subsets](http://oj.leetcode.com/problems/subsets/)   
 [Search in Rotated Sorted Array II](http://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)   
 [Remove Duplicates from Sorted Array II](http://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)   
+[Merge Sorted Array](http://oj.leetcode.com/problems/merge-sorted-array/)   
 
 #动态规划
 
