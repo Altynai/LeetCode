@@ -28,6 +28,7 @@
 [Search a 2D Matrix](http://oj.leetcode.com/problems/search-a-2d-matrix/)   
 [Remove Duplicates from Sorted List](http://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)   
 [Remove Duplicates from Sorted List II](http://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)   
+[Partition List](http://oj.leetcode.com/problems/partition-list/)   
 
 #中等
 
@@ -36,7 +37,7 @@
 [Max Points on a Line](http://oj.leetcode.com/problems/max-points-on-a-line/)   
 [Longest Consecutive Sequence](http://oj.leetcode.com/problems/longest-consecutive-sequence/)   
 [Maximal Rectangle](http://oj.leetcode.com/problems/maximal-rectangle/)   
-   
+
 
 #技巧
 
