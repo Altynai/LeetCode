@@ -27,7 +27,7 @@
 [Simplify Path](http://oj.leetcode.com/problems/simplify-path/)   
 [Search a 2D Matrix](http://oj.leetcode.com/problems/search-a-2d-matrix/)   
 [Remove Duplicates from Sorted List](http://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)   
-
+[Remove Duplicates from Sorted List II](http://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)   
 
 #中等
 
