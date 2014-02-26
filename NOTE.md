@@ -38,6 +38,7 @@
 [Max Points on a Line](http://oj.leetcode.com/problems/max-points-on-a-line/)   
 [Longest Consecutive Sequence](http://oj.leetcode.com/problems/longest-consecutive-sequence/)   
 [Maximal Rectangle](http://oj.leetcode.com/problems/maximal-rectangle/)   
+[Largest Rectangle in Histogram](http://oj.leetcode.com/problems/largest-rectangle-in-histogram/)   
 
 
 #技巧
