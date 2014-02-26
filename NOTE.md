@@ -39,6 +39,7 @@
 [Longest Consecutive Sequence](http://oj.leetcode.com/problems/longest-consecutive-sequence/)   
 [Maximal Rectangle](http://oj.leetcode.com/problems/maximal-rectangle/)   
 [Largest Rectangle in Histogram](http://oj.leetcode.com/problems/largest-rectangle-in-histogram/)   
+[Populating Next Right Pointers in Each Node](http://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)   
 
 
 #技巧
