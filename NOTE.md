@@ -35,6 +35,7 @@
 [Binary Tree Level Order Traversal`](http://oj.leetcode.com/problems/binary-tree-level-order-traversal/)   
 [Binary Tree Level Order Traversal II](http://oj.leetcode.com/problems/binary-tree-level-order-traversal-ii/)   
 [Unique Binary Search Trees](http://oj.leetcode.com/problems/unique-binary-search-trees/)   
+[Binary Tree Inorder Traversal](http://oj.leetcode.com/problems/binary-tree-inorder-traversal/)   
 
 #中等
 
