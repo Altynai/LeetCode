@@ -110,6 +110,7 @@
 [Minimum Path Sum](http://oj.leetcode.com/problems/minimum-path-sum/)   
 [Climbing Stairs](http://oj.leetcode.com/problems/climbing-stairs/)   
 [Edit Distance](http://oj.leetcode.com/problems/edit-distance/)   
+[Unique Paths](http://oj.leetcode.com/problems/unique-paths/)   
 
 
 #其他算法
