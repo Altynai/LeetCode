@@ -103,6 +103,7 @@
 [Spiral Matrix](http://oj.leetcode.com/problems/spiral-matrix/)   
 [Spiral Matrix II](http://oj.leetcode.com/problems/spiral-matrix-ii/)   
 [Maximum Subarray](http://oj.leetcode.com/problems/maximum-subarray/)   
+[Rotate Image](http://oj.leetcode.com/problems/rotate-image/)   
 
 #动态规划
 
