@@ -106,6 +106,7 @@
 [Rotate Image](http://oj.leetcode.com/problems/rotate-image/)   
 [Generate Parentheses](http://oj.leetcode.com/problems/generate-parentheses/)   
 [Roman to Integer](http://oj.leetcode.com/problems/roman-to-integer/)   
+[Integer to Roman](http://oj.leetcode.com/problems/integer-to-roman/)   
 
 #动态规划
 
