@@ -105,6 +105,7 @@
 [Maximum Subarray](http://oj.leetcode.com/problems/maximum-subarray/)   
 [Rotate Image](http://oj.leetcode.com/problems/rotate-image/)   
 [Generate Parentheses](http://oj.leetcode.com/problems/generate-parentheses/)   
+[Roman to Integer](http://oj.leetcode.com/problems/roman-to-integer/)   
 
 #动态规划
 
