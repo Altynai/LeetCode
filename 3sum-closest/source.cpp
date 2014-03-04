@@ -1,3 +1,9 @@
+#include "cstdio"
+#include "vector"
+#include "cmath"
+#include "algorithm"
+using namespace std;
+
 class Solution {
 private:
     bool isGreater(int a, int b) {
@@ -15,6 +21,7 @@ private:
                 low = mid + 1;
             }
         }
+        // printf("%d\n", index);
         if (index != -1) {
             value = num[index];
             if (index + 1 <= high && isGreater(std::abs(target - value), num[index + 1] - target))
@@ -34,6 +41,7 @@ public:
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
                 int value = closestInRange(num, j + 1, n - 1, target - num[i] - num[j]);
+                // printf("%d %d: %d->%d\n", num[i], num[j], value, target - num[i] - num[j]);
                 if (value != -1) {
                     value += num[i] + num[j];
                     if (i == 0 && j == 1)
@@ -42,8 +50,18 @@ public:
                         result = value;
                     }
                 }
+                // printf("%d\n", result);
             }
         }
         return result;
     }
 };
+
+int main(int argc, char const *argv[]) {
+    Solution *solution = new Solution;
+    int a[] = { 0, 0, 0};
+    int n = sizeof(a) / sizeof(int);
+    std::vector<int> v(a, a + n);
+    printf("%d\n", solution->threeSumClosest(v, 1));
+    return 0;
+}
