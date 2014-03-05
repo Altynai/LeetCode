@@ -110,6 +110,7 @@
 [Integer to Roman](http://oj.leetcode.com/problems/integer-to-roman/)   
 [Container With Most Water](http://oj.leetcode.com/problems/container-with-most-water/)   
 [3Sum Closest](http://oj.leetcode.com/problems/3sum-closest/)   
+[Count and Say](http://oj.leetcode.com/problems/count-and-say/)   
 
 #动态规划
 
