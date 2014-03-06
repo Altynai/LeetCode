@@ -111,6 +111,7 @@
 [Container With Most Water](http://oj.leetcode.com/problems/container-with-most-water/)   
 [3Sum Closest](http://oj.leetcode.com/problems/3sum-closest/)   
 [Count and Say](http://oj.leetcode.com/problems/count-and-say/)   
+[Permutation Sequence](http://oj.leetcode.com/problems/permutation-sequence/)   
 
 #动态规划
 
