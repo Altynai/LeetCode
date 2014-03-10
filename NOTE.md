@@ -126,7 +126,7 @@
 [Edit Distance](http://oj.leetcode.com/problems/edit-distance/)   
 [Unique Paths](http://oj.leetcode.com/problems/unique-paths/)   
 [Unique Paths II](http://oj.leetcode.com/problems/unique-paths-ii/)   
-
+[Palindrome Partitioning II](http://oj.leetcode.com/problems/palindrome-partitioning-ii/)   
 
 #其他算法
 [Longest Palindromic Substring](http://oj.leetcode.com/problems/longest-palindromic-substring/)   
