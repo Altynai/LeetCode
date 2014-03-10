@@ -114,6 +114,7 @@
 [Permutation Sequence](http://oj.leetcode.com/problems/permutation-sequence/)   
 [Minimum Window Substring](http://oj.leetcode.com/problems/minimum-window-substring/)   
 [Reverse Words in a String](http://oj.leetcode.com/problems/reverse-words-in-a-string/)   
+[Palindrome Partitioning](http://oj.leetcode.com/problems/palindrome-partitioning/)   
 
 #动态规划
 
