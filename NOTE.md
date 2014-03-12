@@ -40,6 +40,7 @@
 [Surrounded Regions](http://oj.leetcode.com/problems/surrounded-regions/)   
 [Construct Binary Tree from Preorder and Inorder Traversal](http://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)   
 [Construct Binary Tree from Inorder and Postorder Traversal](http://oj.leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)   
+[Validate Binary Search Tree](http://oj.leetcode.com/problems/validate-binary-search-tree/)   
 
 #中等
 
