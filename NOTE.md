@@ -38,6 +38,7 @@
 [Binary Tree Inorder Traversal](http://oj.leetcode.com/problems/binary-tree-inorder-traversal/)   
 [Reverse Nodes in k-Group](http://oj.leetcode.com/problems/reverse-nodes-in-k-group/)   
 [Surrounded Regions](http://oj.leetcode.com/problems/surrounded-regions/)   
+[Construct Binary Tree from Preorder and Inorder Traversal](http://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)   
 
 #中等
 
