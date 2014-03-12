@@ -41,6 +41,7 @@
 [Construct Binary Tree from Preorder and Inorder Traversal](http://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)   
 [Construct Binary Tree from Inorder and Postorder Traversal](http://oj.leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)   
 [Validate Binary Search Tree](http://oj.leetcode.com/problems/validate-binary-search-tree/)   
+[Restore IP Addresses](http://oj.leetcode.com/problems/restore-ip-addresses/)   
 
 #中等
 
