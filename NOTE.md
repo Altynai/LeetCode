@@ -123,6 +123,7 @@
 [Convert Sorted List to Binary Search Tree](http://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)   
 [Binary Tree Zigzag Level Order Traversal](http://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)   
 [Subsets II](http://oj.leetcode.com/problems/subsets-ii/)   
+[Gray Code](http://oj.leetcode.com/problems/gray-code/)   
 
 #动态规划
 
