@@ -125,6 +125,7 @@
 [Subsets II](http://oj.leetcode.com/problems/subsets-ii/)   
 [Gray Code](http://oj.leetcode.com/problems/gray-code/)   
 [Word Search](http://oj.leetcode.com/problems/word-search/)   
+[Text Justification](http://oj.leetcode.com/problems/text-justification/)   
 
 #动态规划
 
