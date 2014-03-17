@@ -127,6 +127,7 @@
 [Word Search](http://oj.leetcode.com/problems/word-search/)   
 [Text Justification](http://oj.leetcode.com/problems/text-justification/)   
 [Anagrams](http://oj.leetcode.com/problems/anagrams/)   
+[Combination Sum](http://oj.leetcode.com/problems/combination-sum/)   
 
 #动态规划
 
