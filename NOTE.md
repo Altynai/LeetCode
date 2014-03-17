@@ -126,6 +126,7 @@
 [Gray Code](http://oj.leetcode.com/problems/gray-code/)   
 [Word Search](http://oj.leetcode.com/problems/word-search/)   
 [Text Justification](http://oj.leetcode.com/problems/text-justification/)   
+[Anagrams](http://oj.leetcode.com/problems/anagrams/)   
 
 #动态规划
 
