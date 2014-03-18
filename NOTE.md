@@ -144,6 +144,8 @@
 [Unique Paths II](http://oj.leetcode.com/problems/unique-paths-ii/)   
 [Palindrome Partitioning II](http://oj.leetcode.com/problems/palindrome-partitioning-ii/)   
 [Decode Ways](http://oj.leetcode.com/problems/decode-ways/)   
+[Word Break](http://oj.leetcode.com/problems/word-break/)   
+[Word Break II](http://oj.leetcode.com/problems/word-break-ii/)   
 
 #其他算法
 [Longest Palindromic Substring](http://oj.leetcode.com/problems/longest-palindromic-substring/)   
