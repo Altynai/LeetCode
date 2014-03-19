@@ -150,6 +150,7 @@
 #其他算法
 [Longest Palindromic Substring](http://oj.leetcode.com/problems/longest-palindromic-substring/)   
 [Word Ladder](http://oj.leetcode.com/problems/word-ladder/)   
+[N-Queens](http://oj.leetcode.com/problems/n-queens/)   
 
 #傻逼题
 [String to Integer (atoi)](http://oj.leetcode.com/problems/string-to-integer-atoi/)   
