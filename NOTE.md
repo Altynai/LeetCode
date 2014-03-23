@@ -154,6 +154,7 @@
 [Longest Palindromic Substring](http://oj.leetcode.com/problems/longest-palindromic-substring/)   
 [Word Ladder](http://oj.leetcode.com/problems/word-ladder/)   
 [N-Queens](http://oj.leetcode.com/problems/n-queens/)   
+[N-Queens II](http://oj.leetcode.com/problems/n-queens-ii/)   
 
 #傻逼题
 [String to Integer (atoi)](http://oj.leetcode.com/problems/string-to-integer-atoi/)   
