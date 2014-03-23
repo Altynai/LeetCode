@@ -156,6 +156,7 @@
 [Word Ladder](http://oj.leetcode.com/problems/word-ladder/)   
 [N-Queens](http://oj.leetcode.com/problems/n-queens/)   
 [N-Queens II](http://oj.leetcode.com/problems/n-queens-ii/)   
+[Sudoku Solver](http://oj.leetcode.com/problems/sudoku-solver/)   
 
 #傻逼题
 [String to Integer (atoi)](http://oj.leetcode.com/problems/string-to-integer-atoi/)   
