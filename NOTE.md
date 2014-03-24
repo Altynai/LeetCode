@@ -152,6 +152,7 @@
 [Word Break II](http://oj.leetcode.com/problems/word-break-ii/)   
 [Interleaving String](http://oj.leetcode.com/problems/interleaving-string/)   
 [Multiply Strings](http://oj.leetcode.com/problems/multiply-strings/)   
+[Distinct Subsequences](http://oj.leetcode.com/problems/distinct-subsequences/)   
 
 #其他算法
 [Longest Palindromic Substring](http://oj.leetcode.com/problems/longest-palindromic-substring/)   
