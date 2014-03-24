@@ -134,6 +134,7 @@
 [LRU Cache](http://oj.leetcode.com/problems/lru-cache/)   
 [4sum](http://oj.leetcode.com/problems/4sum/)   
 [Wildcard Matching ](http://oj.leetcode.com/problems/wildcard-matching/)   
+[Regular Expression Matching](http://oj.leetcode.com/problems/regular-expression-matching/)   
 
 #动态规划
 
