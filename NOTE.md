@@ -43,6 +43,7 @@
 [Validate Binary Search Tree](http://oj.leetcode.com/problems/validate-binary-search-tree/)   
 [Restore IP Addresses](http://oj.leetcode.com/problems/restore-ip-addresses/)   
 [Implement strStr()](http://oj.leetcode.com/problems/implement-strstr/)   
+[Recover Binary Search Tree](http://oj.leetcode.com/problems/recover-binary-search-tree/)   
 
 #中等
 
