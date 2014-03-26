@@ -135,6 +135,7 @@
 [4sum](http://oj.leetcode.com/problems/4sum/)   
 [Wildcard Matching ](http://oj.leetcode.com/problems/wildcard-matching/)   
 [Regular Expression Matching](http://oj.leetcode.com/problems/regular-expression-matching/)   
+[Substring with Concatenation of All Words](http://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)   
 
 #动态规划
 
