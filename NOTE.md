@@ -3,6 +3,8 @@
 
 包含对一些基本数据结构的使用和操作, 以及基本的算法
 
+如：图、树、链表等基本数据结构的遍历和操作，其中递归的题目较多。
+
 [Sort List](http://oj.leetcode.com/problems/sort-list/)   
 [Insertion Sort List ](http://oj.leetcode.com/problems/insertion-sort-list/)   
 [Evaluate Reverse Polish Notation](http://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)   
