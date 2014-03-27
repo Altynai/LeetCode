@@ -138,6 +138,7 @@
 [Regular Expression Matching](http://oj.leetcode.com/problems/regular-expression-matching/)   
 [Substring with Concatenation of All Words](http://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)   
 [Clone Graph](http://oj.leetcode.com/problems/clone-graph/)   
+[Scramble String](http://oj.leetcode.com/problems/scramble-string/)   
 
 #动态规划
 
