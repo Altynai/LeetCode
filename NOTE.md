@@ -45,6 +45,7 @@
 [Implement strStr()](http://oj.leetcode.com/problems/implement-strstr/)   
 [Recover Binary Search Tree](http://oj.leetcode.com/problems/recover-binary-search-tree/)   
 [Unique Binary Search Trees II](http://oj.leetcode.com/problems/unique-binary-search-trees-ii/)   
+[Permutations II](http://oj.leetcode.com/problems/permutations-ii/)   
 
 #中等
 
