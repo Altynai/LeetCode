@@ -26,6 +26,16 @@
     > 链表维护`<key, value>`对，`map<int, Node*>`维护某个`key`指向哪个链表节点，这样查找复杂度`O(logn)`，
     > 更新复杂度`O(logn)`，插入复杂度和删除复杂度也为`O(nlogn)`，只不过多了空间开销。
 
+1. [Binary Tree Postorder Traversal][Binary Tree Postorder Traversal]
+
+    > 先递归左子树和右子树，再处理当前节点
+
+1. [Binary Tree Preorder Traversal][Binary Tree Preorder Traversal]
+
+    > 处理当前节点，再递归左子树和右子树
+
+[Binary Tree Preorder Traversal]: http://oj.leetcode.com/problems/binary-tree-preorder-traversal/
+[Binary Tree Postorder Traversal]: http://oj.leetcode.com/problems/binary-tree-postorder-traversal/
 [LRU Cache]: http://oj.leetcode.com/problems/lru-cache/
 [Insertion Sort List]: http://oj.leetcode.com/problems/insertion-sort-list/
 [Sort List]: http://oj.leetcode.com/problems/sort-list/
