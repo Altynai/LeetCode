@@ -17,7 +17,7 @@ public:
     NumMatrix(vector<vector<int> > &matrix) {
         n = matrix.size();
         if (n == 0) {
-            m == 0;
+            m = 0;
             return;
         }
         m = matrix[0].size();
