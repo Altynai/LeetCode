@@ -7,31 +7,36 @@ public:
     return ans;
   }
 
+  int totalLength(int n) {
+    int ans = 0, digits = 1, count = 9;
+    for (int x = 1; true; x *= 10) {
+      if (n < x * 10) {
+        ans += digits * (n - x + 1);
+        break;
+      } else {
+        ans += digits * count;
+      }
+
+      digits++;
+      count *= 10;
+    }
+    return ans;
+  }
+
   vector<string> splitMessage(string s, int m) {
     int n = s.size();
     int pages = -1;
+    for (int k = 1; k <= n; k++) {
+      // last page at least one char from s
+      if (length(k) * 2 + 3 >= m)
+        continue;
 
-    for (int l = 1, r = n; l <= r;) {
-      int mid = (l + r) / 2;
-
-      bool ok = true;
-      int j = 0;
-      for (int i = 1; ok and i <= mid; i++) {
-        int suffix_len = length(i) + length(mid) + 3;
-        if (suffix_len >= m)
-          ok = false;
-        else
-          j += (m - suffix_len);
+      int cnt = m * k - totalLength(k) - 3 * k - length(k) * k;
+      if (cnt >= n) {
+        pages = k;
+        break;
       }
-
-      if (ok and j >= n)
-        pages = mid, r = mid - 1;
-      else
-        l = mid + 1;
     }
-
-    if (pages == -1)
-      return {};
 
     vector<string> ans;
     for (int i = 1, j = 0; i <= pages; i++) {
